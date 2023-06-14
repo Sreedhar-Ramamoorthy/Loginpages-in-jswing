@@ -35,7 +35,7 @@ public class Variables {
             int h = getHeight();
             g.setColor(new Color(0x4D4DF8CB, true));
             g.fillRoundRect(0, 0, w - 1, h - 1, 30, 30);
-
+System.out.println("");
         }
 
     };
